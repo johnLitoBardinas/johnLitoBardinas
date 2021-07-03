@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on **PHP + JS Stuff**
-- 🌱 I’m currently learning **BLOCKCHAIN**
+- 💼 Currently working on **PHP + JS Stuff**
+- 📙 I’m currently learning **BLOCKCHAIN**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: **www.jlbardinas.com**
-- ⚡ Fun fact: Iam a **Stoic, Minimalists and MyOpic**
+- ⚡ Fun fact: Iam a **Investor, Web Developer, Stoic**
