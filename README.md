@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📙  Figuring out how to do **BLOCKCHAIN**
 - 💬  Ask me about **Web Development**
 - 📫  How to reach me: **www.jlbardinas.com**
-- ⚡  Facts: Iam a **Investor, Developer, Stoic**
+- ⚡  Facts: **Investor, Developer, Stoic**
