@@ -1,13 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**johnLitoBardinas/johnLitoBardinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 **Currently Working On:** PHP + JS Stuff
+- 📙 **Learning:** Figuring out how to do BLOCKCHAIN
+- 💬 **Ask Me About:** Web Development
+- 📫 **How to Reach Me:** [jlbardinas.com](http://www.jlbardinas.com)
+- ⚡ **Fun Facts:** 
+  - Investor 
+  - Developer 
+  - Stoic
 
-Here are some ideas to get you started:
--->
+---
 
-- 💼  Currently working on **PHP + JS Stuff**
-- 📙  Figuring out how to do **BLOCKCHAIN**
-- 💬  Ask me about **Web Development**
-- 📫  How to reach me: **www.jlbardinas.com**
-- ⚡  Facts: **Investor, Developer, Stoic**
+![johnLitoBardinas's github stats](https://github-readme-stats.vercel.app/api?username=johnLitoBardinas&show_icons=true)
+
