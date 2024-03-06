@@ -10,6 +10,3 @@
   - Stoic
 
 ---
-
-![johnLitoBardinas's github stats](https://github-readme-stats.vercel.app/api?username=johnLitoBardinas&show_icons=true)
-
