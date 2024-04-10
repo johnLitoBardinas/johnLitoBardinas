@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Full-Stack Developer</h1>
-<h3 align="center">Carpe diem</h3>
+<h3 align="center">Time is Ticking, You are `?` ![JLBardinas](https://johnlitobardinas.github.io/img/favicon.ico "Dying") </h3>
+https://johnlitobardinas.github.io/img/favicon.ico
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnlitobardinas&label=Profile%20views&color=0e75b6&style=flat" alt="johnlitobardinas" /> </p>
 
@@ -7,7 +8,7 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://www.jlbardinas.com](https://www.jlbardinas.com)
+- 👨‍💻 Some of my my projects are available at [https://www.jlbardinas.com](https://www.jlbardinas.com)
 
 - 💬 Ask me about **Web Development**
 
