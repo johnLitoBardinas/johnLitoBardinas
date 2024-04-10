@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnlitobardinas&label=Profile%20views&color=0e75b6&style=flat" alt="johnlitobardinas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnlitobardinas" alt="johnlitobardinas" /></a> </p>
-
 - 🔭 I’m currently working as **Web-Dev**
 
 - 🌱 I’m currently learning **Blockchain**
