@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👨‍💻 Some of my my projects are available at [https://www.jlbardinas.com](https://www.jlbardinas.com)
+- 👨‍💻 Some of my my projects are available at [https://www.jlbardinas.com/#Work](https://www.jlbardinas.com/#Work)
 
 - 💬 Ask me about **Web Development**
 
