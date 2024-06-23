@@ -2,8 +2,12 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=johnlitobardinas&label=Profile%20views&color=0e75b6&style=flat" alt="johnlitobardinas" /></p>
 
-- 🔭 I’m currently working as **Web-Dev** - 🌱 I’m currently learning **Blockchain** - 👨‍💻 Some of my my projects are available at [https://www.jlbardinas.com/#Work](https://www.jlbardinas.com/#Work) - 💬 Ask me about **Web Development** -
-📫 How to reach me **www.jlbardinas.com** - ⚡ Fun fact **Investor, Developer, Stoic**
+- 🔭 I’m currently working as **Web-Dev**
+- 🌱 I’m currently learning **Blockchain**
+- 👨‍💻 Some of my my projects are available at [https://www.jlbardinas.com/#Work](https://www.jlbardinas.com/#Work)
+- 💬 Ask me about **Web Development**
+- 📫 How to reach me **www.jlbardinas.com**
+- ⚡ Fun fact **Investor, Developer, Stoic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
