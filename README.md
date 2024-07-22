@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as **Web-Dev**
 - 🌱 I’m currently learning **Blockchain**
-- 👨‍💻 Some of my my projects are available at [https://www.jlbardinas.com/#Work](https://www.jlbardinas.com/#Work)
+- 👨‍💻 Some of my projects are available at [https://www.jlbardinas.com/#Work](https://www.jlbardinas.com/#Work)
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me **www.jlbardinas.com**
 - ⚡ Fun fact **Investor, Developer, Stoic**
